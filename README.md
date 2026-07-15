@@ -1,4 +1,4 @@
-# ShopEasy — MERN E-commerce (Academic Project)
+# AURELLE — MERN E-commerce
 
 A single-seller e-commerce store built with the MERN stack (MongoDB, Express, React, Node.js).
 
